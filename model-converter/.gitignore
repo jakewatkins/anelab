@@ -6,6 +6,12 @@ localqa.settings.json
 local.appsettings.json
 backend.tfs
 
+bin/
+include/
+share/
+lib/
+
+
 .DS_Store
 .vs/
 .vscode/
